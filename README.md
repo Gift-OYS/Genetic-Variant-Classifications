@@ -1,5 +1,4 @@
 # Genetic-Variant-Classifications
-# 基于朴素贝叶斯的基因变异是否产生冲突预测
 # 一、项目背景
 “21世纪是生物的世纪”，20世纪70年代后，生物科学的新进展如雨后春笋，层出不穷。当代生物科学主要朝着微观和宏观两个方向进展，而从微观角度，遗传变异、基因突变等领域是一个非常有前景和生命力的方向，而基因突变是否会产生冲突就是其中一个非常重要的命题，因此可以使用当今相对比较成熟的机器学习模型根据现有样本对基因突变是否产生冲突进行预测，从而支持基因生物学研究的进一步发展。本次实验就是使用Kaggle网站提供的数据集通过使用SVM分类算法完成这样的任务。
 # 二、数据集说明
@@ -69,7 +68,3 @@ CPU：intell 11st i7
 显卡：NVIDIA GeForce RTX 3070
 
 其他模块：sklearn、scipy、numpy、missingno、random、warnings、operator、pandas、seaborn、scikitplot等
-
-# 五、实验流程设计
-该实验的具体的流程设计如以下思维导图所示：
-![image](https://user-images.githubusercontent.com/68093996/159114784-2944b59a-537b-4253-8f78-2c83351907df.png)
