@@ -55,7 +55,7 @@ CADD_PHRED	|Phred 标度的 CADD 分数
 CADD_RAW|	变体有害性评分：http://cadd.gs.washington.edu/
 BLOSUM62	|见：http://rosalind.info/glossary/blosum62/
 # 三、实验目的
-使用Python数据分析的相关技术和机器学习的相关算法，针对Kaggle中的一个数据集Genetic Variant Classifications，从不同角度分析遗传变异的各种特征以及对是否冲突的影响，并且根据这些特征主要使用各种朴素贝叶斯算法进行建模，选取最佳模型进行评估，从而对划分出的测试集中的遗传变异是否会产生冲突进行预测。
+使用Python数据分析的相关技术和机器学习的相关算法，针对Kaggle中的一个数据集Genetic Variant Classifications，从不同角度分析遗传变异的各种特征以及对是否冲突的影响，并且根据这些特征主要使用各种算法进行建模，选取最佳模型进行评估，从而对划分出的测试集中的遗传变异是否会产生冲突进行预测。
 # 四、实验环境
 操作系统：Windows 10
 
